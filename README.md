@@ -1,5 +1,5 @@
 [![github-header-image (1)](https://github.com/user-attachments/assets/2d6a5536-f6e1-42b2-b077-a88e41f3bf79)](https://leviarista.github.io/github-profile-header-generator/ )
-<h1 align="center">Hi 👋, I'm Kaushik Saha</h1>
+
 <h3 align="center">A passionate developer from India</h3>
 <img align ="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" >
 
